@@ -8,7 +8,7 @@ A curated, versioned collection of prompts across business, creative, coding, li
 
 | Category | Description |
 |----------|-------------|
-| [📊 Business](user-data/outputs/prompt-repo/business) | Strategy, research, writing, analysis, client comms |
+| [📊 Business](user-data/outputs/prompt-repo/business) | CV Prompts, TBC |
 | [🎨 Creative](user-data/outputs/prompt-repo/creative/) | Copywriting, ideation, storytelling, visual direction |
 | [💻 Coding](user-data/outputs/prompt-repo/coding/) | Code generation, debugging, architecture, documentation |
 | [🌿 Lifestyle](user-data/outputs/prompt-repo/lifestyle/) | Health, planning, travel, personal productivity |
