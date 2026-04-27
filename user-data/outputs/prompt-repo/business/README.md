@@ -6,7 +6,7 @@ Prompts for strategy, research, writing, analysis, client communications, and pr
 
 | File | Description | Tags |
 |------|-------------|------|
-| — | *No prompts yet — add your first one* | — |
+| [cv-prompts/6-second-cv-rewriter-uk-design.md](./cv-prompts/6-second-cv-rewriter-uk-design.md) | Rewrites your entire CV for the 6-second recruiter scan — UK design & UX focused | `cv` `ux` `job-hunting` `uk` |
 
 ---
 
