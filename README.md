@@ -8,11 +8,11 @@ A curated, versioned collection of prompts across business, creative, coding, li
 
 | Category | Description |
 |----------|-------------|
-| [📊 Business](prompt-repo/business/) | Strategy, research, writing, analysis, client comms |
-| [🎨 Creative](prompt-repo/creative/) | Copywriting, ideation, storytelling, visual direction |
-| [💻 Coding](prompt-repo/coding/) | Code generation, debugging, architecture, documentation |
-| [🌿 Lifestyle](prompt-repo/lifestyle/) | Health, planning, travel, personal productivity |
-| [📦 Unsorted](prompt-repo/unsorted/) | Prompts not yet categorised |
+| [📊 Business](user-data/outputs/prompt-repo/business) | Strategy, research, writing, analysis, client comms |
+| [🎨 Creative](user-data/outputs/prompt-repo/creative/) | Copywriting, ideation, storytelling, visual direction |
+| [💻 Coding](user-data/outputs/prompt-repo/coding/) | Code generation, debugging, architecture, documentation |
+| [🌿 Lifestyle](user-data/outputs/prompt-repo/lifestyle/) | Health, planning, travel, personal productivity |
+| [📦 Unsorted](user-data/outputs/prompt-repo/unsorted/) | Prompts not yet categorised |
 
 ---
 
